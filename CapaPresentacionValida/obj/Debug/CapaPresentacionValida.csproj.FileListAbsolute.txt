@@ -1,0 +1,10 @@
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\bin\Debug\CapaPresentacionValida.exe.config
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\bin\Debug\CapaPresentacionValida.exe
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\bin\Debug\CapaPresentacionValida.pdb
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\obj\Debug\CapaPresentacionValida.csproj.AssemblyReference.cache
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\obj\Debug\CapaPresentacionValida.csproj.SuggestedBindingRedirects.cache
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\obj\Debug\CapaPresentacionValida.Properties.Resources.resources
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\obj\Debug\CapaPresentacionValida.csproj.GenerateResource.cache
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\obj\Debug\CapaPresentacionValida.csproj.CoreCompileInputs.cache
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\obj\Debug\CapaPresentacionValida.exe
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\CapaPresentacionValida\obj\Debug\CapaPresentacionValida.pdb

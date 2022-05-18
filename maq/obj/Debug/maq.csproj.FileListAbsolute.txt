@@ -1,0 +1,10 @@
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\bin\Debug\maq.exe.config
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\bin\Debug\maq.exe
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\bin\Debug\maq.pdb
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\obj\Debug\maq.csproj.AssemblyReference.cache
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\obj\Debug\maq.csproj.SuggestedBindingRedirects.cache
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\obj\Debug\maq.Properties.Resources.resources
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\obj\Debug\maq.csproj.GenerateResource.cache
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\obj\Debug\maq.csproj.CoreCompileInputs.cache
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\obj\Debug\maq.exe
+C:\Users\UTFSM\source\repos\testPrimo\VerificaUsuario\maq\obj\Debug\maq.pdb
